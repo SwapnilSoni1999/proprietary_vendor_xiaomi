@@ -497,6 +497,7 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     QtiTelephonyService \
     ims \
+    imssettings \
     CNEService \
     qcrilmsgtunnel \
     TimeService
